@@ -7,9 +7,9 @@ Um projeto realizado pela SEED-PR em parceria com a Alura que tem o objetivo rea
    Seaborne: https://seaborn.pydata.org/  
    Matplotlib: https://matplotlib.org/  
 
-2. Funções usadas no projeto
+2. Funções usadas no projeto 🔎
 
-3. Tratamento e análise dos dados fornecidos
+3. Tratamento e análise dos dados fornecidos 📈
    
    •Tratamento de celulas NaN(Not a number)  
    •Renomeamento das colunas  
@@ -22,4 +22,4 @@ Um projeto realizado pela SEED-PR em parceria com a Alura que tem o objetivo rea
    •Análise para descobrir se o número de cursos ofertados por regiião tem impacto nos alunos inscritos e/ou matriculados
    •Todos os dados dos pontos anteriores representados por gráficos
    
-4. Conclusão final sobre os dados e alguns pontos extras
+4. Conclusão final sobre os dados e alguns pontos extras 📝
